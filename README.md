@@ -1,3 +1,4 @@
 # GROUND_OS
 creating OS in C++
-akjsdfklasfklasjdfjlasjf
+
+Selfmade OS
